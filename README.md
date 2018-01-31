@@ -1,3 +1,9 @@
+# Gossip Page : 
+
+With CRUD available at => https://thawing-basin-80094.herokuapp.com/gossips
+
+
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
